@@ -3,3 +3,4 @@
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
 - 👾 Favorite games: Death Stranding, Garry's Mods
+- 💻I know languages such as: JSON, NodeJS, LUA
