@@ -23,4 +23,4 @@
 </a>
 <br>
 
-[![senpachzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=senpachz)
+![senpachzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=senpachz)
