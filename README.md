@@ -4,7 +4,6 @@
 ### 🥅 I am constantly learning new things
 ### 👾 I Favorite games: Death Stranding, Garry's Mods
 ### 💻 I know languages such as: JSON, NodeJS, LUA
-![alt text](https://i.imgur.com/tLLNrsp.jpg)
 
 ### You can contact/follow me here:
 <a href="https://t.me/senpachzdev">
