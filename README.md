@@ -2,7 +2,7 @@
 ### 💬 I Ask me about t.me/senpachzdev
 ### 💪 I like to write code
 ### 🥅 I am constantly learning new things
-### 👾 I Favorite games: Death Stranding, Garry's Mods
+### 👾 I Favorite games: Death Stranding, Garry's Mods, Minecraft
 ### 💻 I know languages such as: JSON, NodeJS, LUA
 
 ### You can contact/follow me here:
