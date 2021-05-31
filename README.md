@@ -1,9 +1,9 @@
-### 🔭 I am currently working on: spbcore.space, triliantrp
+### 🔭 I am currently working on: spbcore.space, triliantrp, eternal-server, 99stack
 ### 💬 I Ask me about t.me/senpachzdev
 ### 💪 I like to write code
 ### 🥅 I am constantly learning new things
 ### 👾 I Favorite games: Death Stranding, Garry's Mods, Minecraft
-### 💻 I know languages such as: JSON, NodeJS, LUA
+### 💻 I know languages such as: JSON, NodeJS, LUA, HTML
 
 ### You can contact/follow me here:
 <a href="https://t.me/senpachzdev">
