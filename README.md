@@ -1,4 +1,4 @@
-### 🔭 I am currently working on: spbcore.space, triliantrp, eternal-server, 99stack
+### 🔭 I am currently working on: spbcore.space, eternal-server
 ### 💬 I Ask me about t.me/senpachzdev
 ### 💪 I like to write code
 ### 🥅 I am constantly learning new things
